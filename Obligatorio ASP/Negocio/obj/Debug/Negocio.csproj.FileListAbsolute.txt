@@ -1,0 +1,18 @@
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Persistencia.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Persistencia.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\bin\Debug\Persistencia.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\Negocio\obj\Debug\Negocio.pdb

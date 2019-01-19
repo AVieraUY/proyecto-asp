@@ -1,0 +1,14 @@
+C:\Users\popi\Desktop\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\popi\Desktop\Obligatorio2017\EntidadesCompartidas\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\popi\Desktop\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\popi\Desktop\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Downloads\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\bin\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.dll
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.pdb
+C:\Users\agust\Desktop\BIOS\Obligatorio ASP\Obligatorio2017\Obligatorio2017\EntidadesCompartidas\obj\Debug\EntidadesCompartidas.csprojResolveAssemblyReference.cache
